@@ -28,6 +28,7 @@ from gvsbuild.projects.gobject_introspection import GObjectIntrospection
 from gvsbuild.projects.gperf import Gperf
 from gvsbuild.projects.graphene import Graphene
 from gvsbuild.projects.gsettings_desktop_schemas import GSettingsDesktopSchemas
+from gvsbuild.projects.libsrtp2 import LibSRTP
 from gvsbuild.projects.gstreamer import (
     GstDevTools,
     GstPluginsBad,
